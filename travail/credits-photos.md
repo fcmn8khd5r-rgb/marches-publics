@@ -8,7 +8,7 @@ d'origine, où la licence est affichée.
 | Emplacement | Fichier publié | Origine |
 |---|---|---|
 | Accueil, portrait rond | `public/assets/img/mathys-bocage-portrait-112.jpg` et `-224.jpg` | Fournie par Mathys Bocage |
-| À propos, section Parcours | `public/assets/img/mathys-bocage-trophee-500.jpg` et `-1000.jpg` | Fournie par Mathys Bocage |
+| À propos, section Parcours | `public/assets/img/mathys-bocage-trophee-440.jpg` et `-880.jpg` | Fournie par Mathys Bocage |
 
 Texte alternatif retenu : « Mathys Bocage, portrait » et « Mathys Bocage tenant le
 trophée du concours Entreprendre ».
