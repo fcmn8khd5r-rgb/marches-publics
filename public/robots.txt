@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /un-exemple/
+
+Sitemap: https://marches-publics.studiomathysbocage.fr/sitemap.xml

@@ -1,0 +1,11 @@
+# Ce site est fait de fichiers HTML déjà prêts : il n'y a rien à construire.
+# Netlify se contente donc de publier le dossier « public », sans commande.
+#
+# Le réglage est écrit ici plutôt que dans le tableau de bord de Netlify :
+# un réglage qui ne vit que dans une interface ne se relit pas, ne se compare
+# pas d'une version à l'autre, et disparaît le jour où le site est recréé.
+# Ce fichier l'emporte de toute façon sur l'interface.
+[build]
+  publish = "public"
+
+# Pas de ligne « command » : aucune construction n'est nécessaire.
