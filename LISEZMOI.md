@@ -34,6 +34,15 @@ La page « Un exemple » n'est reliée à aucun menu et porte une consigne de
 non-indexation : les moteurs de recherche l'ignorent. Elle est aussi écartée dans
 `public/robots.txt`.
 
+## Essayer le site avant de le mettre en ligne
+
+    python3 travail/outils/essayer.py
+
+Puis ouvrir http://127.0.0.1:8790. Ce petit serveur applique les en-têtes du fichier
+`public/_headers`, que Netlify lit mais qu'un serveur ordinaire ignore. C'est important :
+une politique de sécurité trop stricte a déjà cassé toute la mise en forme en ligne
+alors que tout paraissait normal en local. À utiliser avant chaque mise en ligne.
+
 ## Changer un texte
 
 Les pages sont des fichiers HTML ordinaires. Pour corriger une phrase, ouvrez le
